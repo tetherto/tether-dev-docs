@@ -1,20 +1,20 @@
 {
-  "name": "tether-dev-docs",
+  "name": "@tetherto/tether-dev-docs",
   "version": "0.0.8",
   "type": "module",
   "description": "Tether Dev Docs",
   "main": "src/index.js",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.46.0",
-    "@typescript-eslint/parser": "^8.46.0",
-    "eslint": "9.18.0",
-    "eslint-config-prettier": "9.1.0",
-    "eslint-plugin-eslint-plugin": "6.4.0",
-    "eslint-plugin-import": "2.31.0",
-    "eslint-plugin-prettier": "5.2.1",
-    "eslint-plugin-react": "7.37.4",
-    "globals": "15.14.0",
-    "prettier": "3.4.2"
+    "@typescript-eslint/eslint-plugin": "8.59.4",
+    "@typescript-eslint/parser": "8.59.4",
+    "eslint": "9.39.4",
+    "eslint-config-prettier": "10.1.8",
+    "eslint-plugin-eslint-plugin": "6.5.0",
+    "eslint-plugin-import": "2.32.0",
+    "eslint-plugin-prettier": "5.5.5",
+    "eslint-plugin-react": "7.37.5",
+    "globals": "17.6.0",
+    "prettier": "3.8.3"
   }
 }
